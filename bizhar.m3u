@@ -1,0 +1,293 @@
+#EXTM3U
+
+
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Afarin TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Amozhgary TV (1080p)
+https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Kurdistan 24 (720p)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,KurdSat (720p)
+http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,KurdSat News (720p)
+http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Payam TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/Uw4DX17.png" group-title="KURDISH" ,SterkTV (1080p) [Not 24/7]
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/playlist.m3u8
+
+
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,1TV Persian (720p)
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,AFN TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Alkerazatv (720p)
+https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Andisheh TV (360p)
+https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Ariana Afghanistan International TV (720p) [Not 24/7]
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Ariana TV National (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,ATN News (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,AVA Family (720p) [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,AVA Series (720p)
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Ayeneh TV (720p) [Not 24/7]
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Caltex TV (720p) [Not 24/7]
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Didgah TV (280p)
+https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,FARS (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Ganj e Hozour TV (720p)
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,GEM AZ (576p) [Not 24/7]
+http://216.66.42.47:7777/GemAZ_HD.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,GEM Comedy (576p) [Not 24/7]
+http://216.66.42.47:7777/GemComedy_HD.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,GOLESTAN (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Hasti TV (1080p) [Not 24/7]
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Icnet TV (720p) [Not 24/7]
+http://51.210.199.7/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Iran Beauty (720p) [Not 24/7]
+http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,ITC TV (480p) [Geo-blocked]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,JAHANBIN (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Kalemeh TV (576p) [Not 24/7]
+http://51.210.199.37/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Kalemeh TV (1080p) [Not 24/7]
+https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Manoto TV (1080p)
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Marjaeyat (1080p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Mihan TV (360p)
+https://iptv.mihantv.com/mihantv/playlist1/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Mohabat TV (540p)
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Mohabat TV (540p)
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,NAVAHANG (720p)
+http://51.210.227.130/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Negah TV (720p) [Not 24/7]
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Omide Iran (720p) [Not 24/7]
+http://51.210.199.38/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Parnian TV (720p)
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Pars TV (720p) [Not 24/7]
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Payam-e-Afghan TV (480p) [Not 24/7]
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Payvand TV (720p) [Not 24/7]
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,PBC Tapesh TV (720p) [Not 24/7]
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persian Film (720p) [Not 24/7]
+http://51.210.227.135/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Cinema (720p)
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Comedy (720p)
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Documentary (720p) [Not 24/7]
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Family (720p)
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Family Plus (720p) [Not 24/7]
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Game & Tech (720p) [Not 24/7]
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Iranian (720p) [Not 24/7]
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Junior (720p)
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Korea (720p)
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Music (720p)
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Nostalgia (720p)
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Plus (1080p)
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Persiana Sonati (576p) [Not 24/7]
+http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,PMC Royale (720p) [Not 24/7]
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,QAZVIN (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:qazvin/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Radio Javan (720p)
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,SAHAND (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Sat7 Pars (720p)
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Sepanj TV (720p) [Not 24/7]
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Shabakeh 7 (720p)
+http://rtmp.abnsat.com/hls/txministry.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,SL 1 (720p)
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,SL 2 (720p)
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,T2 TV (720p) [Not 24/7]
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,TBN Nejat TV (540p) [Not 24/7]
+https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Towheed TV (720p) [Not 24/7]
+http://avrstream.com:1935/live/towheedtv/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,Varzesh (1080p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,VOX1 (720p) [Not 24/7]
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,VOX2 (720p) [Not 24/7]
+http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/gUh5TDe.png" group-title="PERSIAN" ,YourTime TV (720p) [Not 24/7]
+https://hls.yourtime.live/hls/stream.m3u8
+
+
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC 1 USA (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC 3 USA (1080p)
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Action (1080p) [Geo-blocked]
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Drama KSA (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Drama USA (1080p)
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Masr 1 (1080p) [Geo-blocked]
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Masr 1 USA (1080p)
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Masr 2 (1080p) [Geo-blocked]
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="MBC" ,MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+
+
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Cinema (1080p)
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Cinema KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Classic (1080p)
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Comedy (1080p) [Geo-blocked]
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Drama (1080p) [Geo-blocked]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-drama
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Khalijia (1080p)
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Music (1080p)
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Tarab Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
+#EXTINF:-1 logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="ROTANA" ,Rotana+ (1080p)
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+
+
+#EXTINF:-1 logo="" group-title="Undefined" ,1Music Channel Hungary (576p)
+http://1music.hu/1music.m3u8
+#EXTINF:-1 logo="" group-title="Undefined" ,1Music Channel Hungary (576p)
+http://www.1music.hu/1music.m3u8
+#EXTINF:-1 logo="" group-title="Undefined" ,ADRIA Music (1080p)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:-1 logo="" group-title="Undefined" ,Adria Music RS
+http://91.212.150.248/AdriaMusicTV/index.m3u8
+#EXTINF:-1 logo="" group-title="Undefined" ,AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+
+
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX" ,Asian
+http://live.adultiptv.net/asian.m3u8
